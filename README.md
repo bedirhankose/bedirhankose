@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Bedirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedirhankose)](https://github.com/bedirhankose/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhankose)](https://github.com/bedirhankose/github-readme-stats)
