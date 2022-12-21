@@ -1,4 +1,4 @@
-                                                ### Hi👋, I'm Bedirhan
+                                                     Hi👋, I'm Bedirhan
 
 - 🔭 I’m currently doing a master's degree in Geodesy and Geoinformation Sciences at the University of Berlin.
 - 👀 I’m interested in programming languages.
