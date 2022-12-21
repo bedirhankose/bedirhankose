@@ -1,6 +1,6 @@
                                                      Hi👋, I'm Bedirhan
 
-- 🔭 I’m currently doing a master's degree in Geodesy and Geoinformation Sciences at the University of Berlin.
+- 🔭 I’m currently doing a master's degree in Geodesy and Geoinformation Sciences at the Technical University of Berlin.
 - 👀 I’m interested in programming languages.
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on iOS application projects.
