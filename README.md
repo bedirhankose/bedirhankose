@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing a master's degree in Geodesy and Geoinformation Sciences at the Technical University of Berlin.
 - 👀 I’m interested in programming languages.
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently developing Swift
 - 👯 I’m looking to collaborate on iOS application projects.
 - 🤔 I’m looking for help with Swift.
 - 📫 How to reach me: bedirhan.kose05@gmail.com
