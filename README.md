@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Bedirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedirhankose)](https://github.com/bedirhankose/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhankose)](https://github.com/bedirhankose/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bedirhankose)](https://git.io/streak-stats)
