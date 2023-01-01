@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Bedirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedirhankose&theme=blood)](https://github.com/bedirhankose/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=bedirhankose&theme=blood)](https://git.io/streak-stats)
+[![Bedirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedirhankose&theme=radical)](https://github.com/bedirhankose/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=bedirhankose&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhankose&theme=blood-dark)](https://github.com/bedirhankose/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhankose&theme=radical)](https://github.com/bedirhankose/github-readme-stats)
 
